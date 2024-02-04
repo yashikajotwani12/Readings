@@ -1,3 +1,4 @@
 All of my Readings:
 
-[Tech](Tech.md)
+* [Tech](Tech.md)
+* [Personal Development](PersonalDevelopment.md)
