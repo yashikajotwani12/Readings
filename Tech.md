@@ -7,3 +7,4 @@ List of Links that I read
 4. [measuring-developer-productivity-bae](https://newsletter.pragmaticengineer.com/p/measuring-developer-productivity-bae)
 5. [Developer Podcasts](https://getdx.com/podcast/)
 6. [99 bottles of oop](https://github.com/keyvanakbary/learning-notes/blob/master/books/99-bottles-of-oop.md)
+7. [Books](https://keyvanakbary.github.io/learning-notes/books/)
