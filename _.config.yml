@@ -4,6 +4,7 @@ relative_links:
   enabled: true
   collections: true
 include:
+  - Tech.md
   - CONTRIBUTING.md
   - README.md
   - LICENSE.md
@@ -12,4 +13,4 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
-  - Tech.md
+ 
