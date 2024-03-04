@@ -15,4 +15,12 @@ List of Links that I read
 12. [whats_so_hard_in_kubernetes](https://www.reddit.com/r/devops/comments/18e4nuw/whats_so_hard_in_kubernetes/?utm_source=share&utm_medium=web2x&context=3&rdt=42402)
 13. [on-writing-regularly](https://herman.bearblog.dev/on-writing-regularly/)
 15. [Amazing Person 2](https://herman.bearblog.dev)
-16. 
+16. https://netflixtechblog.com/1-streamlining-membership-data-engineering-at-netflix-with-psyberg-f68830617dd1
+17. https://netflixtechblog.com/migrating-critical-traffic-at-scale-with-no-downtime-part-2-4b1c8c7155c1
+18. https://netflixtechblog.com/automated-canary-analysis-at-netflix-with-kayenta-3260bc7acc69
+19. https://cloud.google.com/blog/products/gcp/introducing-kayenta-an-open-automated-canary-analysis-tool-from-google-and-netflix/
+20. https://github.com/Netflix/atlas
+21. https://github.com/spinnaker/kayenta
+22. https://blog.zomato.com/a-tale-of-scale-behind-the-scenes-at-zomato-tech-for-nye-2023
+23. https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale
+24. 
