@@ -23,4 +23,9 @@ List of Links that I read
 21. https://github.com/spinnaker/kayenta
 22. https://blog.zomato.com/a-tale-of-scale-behind-the-scenes-at-zomato-tech-for-nye-2023
 23. https://blog.zomato.com/building-a-cost-effective-logging-platform-using-clickhouse-for-petabyte-scale
-24. 
+24. https://google.github.io/eng-practices/review/reviewer/
+25. https://github.com/mgp/book-notes/blob/master/staff-engineer.markdown
+26. https://github.com/mgp/book-notes/blob/master/choose-yourself.markdown
+27. https://github.com/mgp/book-notes/tree/master
+28. https://medium.com/womenintechnology/how-i-became-a-better-software-engineer-1184c0305722
+29. https://medium.com/@mike.s.chambers/performance-review-time-ff9dfaf326e4
