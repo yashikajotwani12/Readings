@@ -29,3 +29,8 @@ List of Links that I read
 27. https://github.com/mgp/book-notes/tree/master
 28. https://medium.com/womenintechnology/how-i-became-a-better-software-engineer-1184c0305722
 29. https://medium.com/@mike.s.chambers/performance-review-time-ff9dfaf326e4
+30. https://atomic.guide
+31. https://www.developing.dev/p/from-microsoft-intern-to-meta-staff
+32. https://www.developing.dev/p/6-software-engineering-templates
+33. https://www.developing.dev/p/finding-next-level-scope
+34. https://www.developing.dev/p/how-to-write
