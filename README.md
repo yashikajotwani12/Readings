@@ -4,3 +4,4 @@ All of my Readings:
 * [Personal Development](PersonalDevelopment.md)
 * [Tech Diagrams](Diagrams.md)
 * [Good & short Lines](Quotes.md)
+* [Books I want to Read](Books.md)
