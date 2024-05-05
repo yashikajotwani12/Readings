@@ -34,3 +34,5 @@ List of Links that I read
 32. [6-software-engineering-templates](https://www.developing.dev/p/6-software-engineering-templates)
 33. [finding-next-level-scope](https://www.developing.dev/p/finding-next-level-scope)
 34. [how-to-write](https://www.developing.dev/p/how-to-write)
+35. [skills-senior-engineers-need-beyond-coding](https://medium.com/@skamille/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
+
