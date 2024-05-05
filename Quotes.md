@@ -43,3 +43,5 @@
 
 
 17. In situations where you are aware that your intuition is lacking, adhere to abstract principles. Build up lists of tried-and-true principles throughout your career: principles are formalized intuition, that generalize to a broader range of situations than raw pattern recognition (which requires direct and extensive experience of similar situations).
+
+18. Solve problems. Charge for the solution. Scale through technology.
