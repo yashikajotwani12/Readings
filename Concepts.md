@@ -1,4 +1,4 @@
-Advanced Backend, System Design
+## Advanced Backend, System Design
 
 1. Advanced backend communication
 2. Message queues and PubSubs
@@ -18,3 +18,16 @@ Advanced Backend, System Design
 16. CAP Theorem
 17. Testing Node.js Apps
 18. Real time communication, basics of WebRTC
+
+
+
+## Advanced Devops
+
+1. Container Orchestration, Docker Swarm
+2. Kubernetes
+3. CI/CD
+4. Monitoring systems basics to advance
+5. Promhetheus, Grafana
+6. Newrelic as a paid service
+7. Serverless Deep dive
+8. AWS Constructs (EC2, S3, CDNs, LB, EKS)
