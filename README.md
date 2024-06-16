@@ -7,3 +7,4 @@ All of my Readings:
 * [Books I want to Read](Books.md)
 * [Tech Concepts](Concepts.md)
 * [Tech People and their newsletters](TechPeople.md)
+* [Opensource Projects](Opensource.md)
