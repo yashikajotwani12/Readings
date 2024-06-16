@@ -6,3 +6,4 @@ All of my Readings:
 * [Good & short Lines](Quotes.md)
 * [Books I want to Read](Books.md)
 * [Tech Concepts](Concepts.md)
+* [Tech People and their newsletters](TechPeople.md)
