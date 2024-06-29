@@ -8,3 +8,4 @@ All of my Readings:
 * [Tech Concepts](Concepts.md)
 * [Tech People and their newsletters](TechPeople.md)
 * [Opensource Projects](Opensource.md)
+* [AI Stuff](AI.md)
