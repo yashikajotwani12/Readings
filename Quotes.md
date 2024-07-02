@@ -42,6 +42,19 @@
 16. Making decisions faster means you make more decisions over the course of your career, which will give you stronger intuition about the correctness of available options. Experience is key to productivity, and greater productivity will provide you with more experience: a virtuous cycle.
 
 
-17. In situations where you are aware that your intuition is lacking, adhere to abstract principles. Build up lists of tried-and-true principles throughout your career: principles are formalized intuition, that generalize to a broader range of situations than raw pattern recognition (which requires direct and extensive experience of similar situations).
+17. "The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise." - Edsger W. Dijkstra
 
-18. Solve problems. Charge for the solution. Scale through technology.
+
+18. "A proper abstraction decouples the code so that every change doesn’t echo throughout the entire code base." - Ronna Steinburg
+
+
+19. "A good API is not just easy to use but also hard to misuse." - JBD
+
+
+20. "Computing is all about abstractions. Those below yours are just details. Those above yours are limiting complicated crazy town." - Joe Beda
+
+
+21.  In situations where you are aware that your intuition is lacking, adhere to abstract principles. Build up lists of tried-and-true principles throughout your career: principles are formalized intuition, that generalize to a broader range of situations than raw pattern recognition (which requires direct and extensive experience of similar situations).
+
+
+22.  Solve problems. Charge for the solution. Scale through technology.
