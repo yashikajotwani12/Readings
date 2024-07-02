@@ -9,3 +9,4 @@ All of my Readings:
 * [Tech People and their newsletters](TechPeople.md)
 * [Opensource Projects](Opensource.md)
 * [AI Stuff](AI.md)
+* [Conferences](Conferences.md)
