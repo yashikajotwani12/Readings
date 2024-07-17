@@ -36,4 +36,9 @@ List of Links that I read
 34. [how-to-write](https://www.developing.dev/p/how-to-write)
 35. [skills-senior-engineers-need-beyond-coding](https://medium.com/@skamille/an-incomplete-list-of-skills-senior-engineers-need-beyond-coding-8ed4a521b29f)
 36. [the-compounding-seeds-of-creativity](https://world.hey.com/dhh/the-compounding-seeds-of-creativity-e7e212c0)
+37. https://www.amazingcto.com/cto-books-hackernews-2023/
+38. https://blog.pragmaticengineer.com/an-elegant-puzzle-book-review/
+39. https://storage.googleapis.com/gweb-research2023-media/pubtools/5068.pdf
+40. https://authzed.com/docs/spicedb/getting-started/discovering-spicedb
+41. https://github.com/authzed/spicedb
 
